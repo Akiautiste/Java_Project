@@ -14,6 +14,8 @@ public class StudentManager {
         ArrayList<Student> list = new ArrayList<>();
 
         System.out.println("dev01新增代码");
+
+        System.out.println("master代码");
         lo:while(true){
             System.out.println("--------欢迎来到学生管理系统--------");
             System.out.println("1 添加学生");
