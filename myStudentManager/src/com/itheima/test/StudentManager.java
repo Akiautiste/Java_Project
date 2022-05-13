@@ -13,7 +13,7 @@ public class StudentManager {
         //创建集合容器对象
         ArrayList<Student> list = new ArrayList<>();
 
-
+        System.out.println("dev01新增代码");
         lo:while(true){
             System.out.println("--------欢迎来到学生管理系统--------");
             System.out.println("1 添加学生");
